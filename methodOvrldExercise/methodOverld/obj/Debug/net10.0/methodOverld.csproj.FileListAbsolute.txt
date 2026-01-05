@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/bin/Debug/net10.0/methodOverld
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/bin/Debug/net10.0/methodOverld.deps.json
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/bin/Debug/net10.0/methodOverld.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/bin/Debug/net10.0/methodOverld.dll
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/bin/Debug/net10.0/methodOverld.pdb
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.dll
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/refint/methodOverld.dll
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.pdb
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/methodOverld.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/methodOvrldExercise/methodOverld/obj/Debug/net10.0/ref/methodOverld.dll

@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/bin/Debug/net10.0/methodOverloading
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/bin/Debug/net10.0/methodOverloading.deps.json
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/bin/Debug/net10.0/methodOverloading.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/bin/Debug/net10.0/methodOverloading.dll
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/bin/Debug/net10.0/methodOverloading.pdb
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.dll
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/refint/methodOverloading.dll
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.pdb
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/methodOverloading.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/methodOverloading/methodOverloading/obj/Debug/net10.0/ref/methodOverloading.dll
