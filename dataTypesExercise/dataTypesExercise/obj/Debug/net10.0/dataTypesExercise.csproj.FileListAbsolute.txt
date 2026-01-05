@@ -1,0 +1,14 @@
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.AssemblyInfoInputs.cache
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.AssemblyInfo.cs
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/bin/Debug/net10.0/dataTypesExercise
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/bin/Debug/net10.0/dataTypesExercise.deps.json
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/bin/Debug/net10.0/dataTypesExercise.runtimeconfig.json
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/bin/Debug/net10.0/dataTypesExercise.dll
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/bin/Debug/net10.0/dataTypesExercise.pdb
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.dll
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/refint/dataTypesExercise.dll
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.pdb
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/dataTypesExercise.genruntimeconfig.cache
+/home/johnv/git-repos/charp_udemy/dataTypesExercise/dataTypesExercise/obj/Debug/net10.0/ref/dataTypesExercise.dll
