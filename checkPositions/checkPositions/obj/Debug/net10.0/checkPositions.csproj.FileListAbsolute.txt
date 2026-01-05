@@ -1,0 +1,14 @@
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/bin/Debug/net10.0/checkPositions
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/bin/Debug/net10.0/checkPositions.deps.json
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/bin/Debug/net10.0/checkPositions.runtimeconfig.json
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/bin/Debug/net10.0/checkPositions.dll
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/bin/Debug/net10.0/checkPositions.pdb
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.AssemblyInfoInputs.cache
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.AssemblyInfo.cs
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.dll
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/refint/checkPositions.dll
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.pdb
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/checkPositions.genruntimeconfig.cache
+/home/johnv/git-repos/charp_udemy/checkPositions/checkPositions/obj/Debug/net10.0/ref/checkPositions.dll
