@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/bin/Debug/net10.0/whileLoop
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/bin/Debug/net10.0/whileLoop.deps.json
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/bin/Debug/net10.0/whileLoop.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/bin/Debug/net10.0/whileLoop.dll
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/bin/Debug/net10.0/whileLoop.pdb
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.dll
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/refint/whileLoop.dll
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.pdb
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/whileLoop.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/whileLoopEx/whileLoop/obj/Debug/net10.0/ref/whileLoop.dll

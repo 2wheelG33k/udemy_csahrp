@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/bin/Debug/net10.0/starPyramid
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/bin/Debug/net10.0/starPyramid.deps.json
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/bin/Debug/net10.0/starPyramid.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/bin/Debug/net10.0/starPyramid.dll
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/bin/Debug/net10.0/starPyramid.pdb
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.dll
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/refint/starPyramid.dll
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.pdb
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/starPyramid.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/starPyramid/starPyramid/obj/Debug/net10.0/ref/starPyramid.dll
