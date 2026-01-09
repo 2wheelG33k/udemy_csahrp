@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/bin/Debug/net10.0/PerInfoMgmt
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/bin/Debug/net10.0/PerInfoMgmt.deps.json
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/bin/Debug/net10.0/PerInfoMgmt.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/bin/Debug/net10.0/PerInfoMgmt.dll
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/bin/Debug/net10.0/PerInfoMgmt.pdb
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.dll
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/refint/PerInfoMgmt.dll
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.pdb
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/PerInfoMgmt.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/PerInfoMgmt/PerInfoMgmt/obj/Debug/net10.0/ref/PerInfoMgmt.dll
