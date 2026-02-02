@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        PremiumMember premiumMember = new PremiumMember("John Doe", 25);
+        premiumMember.DisplayMembershipDetails();
     }
 }

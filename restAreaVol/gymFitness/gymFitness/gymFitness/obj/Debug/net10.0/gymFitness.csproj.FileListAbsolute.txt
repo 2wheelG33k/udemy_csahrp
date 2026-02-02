@@ -1,0 +1,15 @@
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/bin/Debug/net10.0/gymFitness
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/bin/Debug/net10.0/gymFitness.deps.json
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/bin/Debug/net10.0/gymFitness.runtimeconfig.json
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/bin/Debug/net10.0/gymFitness.dll
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/bin/Debug/net10.0/gymFitness.pdb
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.AssemblyInfoInputs.cache
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.AssemblyInfo.cs
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.csproj.CoreCompileInputs.cache
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.sourcelink.json
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.dll
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/refint/gymFitness.dll
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.pdb
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/gymFitness.genruntimeconfig.cache
+/home/johnv/git-repos/udemy/csharp/restAreaVol/gymFitness/gymFitness/gymFitness/obj/Debug/net10.0/ref/gymFitness.dll

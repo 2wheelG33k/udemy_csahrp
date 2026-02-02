@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("radiusAreaHeightCircle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+020f5617e4f97c7738dbd6fcb106161ea5918696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf6edc6f97082a422b400de8b5b8aaa2cea3dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("radiusAreaHeightCircle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("radiusAreaHeightCircle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
